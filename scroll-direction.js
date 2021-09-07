@@ -26,8 +26,8 @@ const upperHeader = () => {
         };
     }, [handleNavigation]);
     return(
-        <div>
-
+        <div syle={{height:"2000px"}}>
+        {/* when you scroll , you can see isShow variable changes into true and false in console*/}
         </div>
     )
 }
